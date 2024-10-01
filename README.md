@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I’m currently working on our capstone project!
+🌱 I’m currently learning some programming languages! (PHP, C# and Python)
+
 <!--
 **02Mowgri/02Mowgri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
